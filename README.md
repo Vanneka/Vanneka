@@ -5,6 +5,7 @@ Some technologies I enjoy working with include:
 - 🐍 Python
 - 🗑️ SQL
 - 💻 Java
+- 🧰 Other technologies include: Jupyter Notebooks, Numpy, Pandas, Tableau, Scipy, Tensorflow, R, Rattle
 
 Some of the things I'm currently interested in include
 - 🔭 Building machine learning models
