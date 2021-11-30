@@ -9,6 +9,8 @@ Some technologies I enjoy working with include:
 Some of the things I'm currently interested in include
 - 🔭 Building machine learning models
 - 📉 Creating interesting data visualisation charts
+
+When I'm not in front of a computer, you'll usually find me taking random pictures of scenery, learning different baking recipes on Youtube or trying to knit a scarf for the umpteenth time.
 <!--
 **Vanneka/Vanneka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
