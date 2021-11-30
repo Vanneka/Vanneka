@@ -1,5 +1,14 @@
-### Hi there 👋
+## Howdy 💃🏽
+I'm Vanessa, a Software Developer with a bias for data and machine learning algorithms.
 
+Some technologies I enjoy working with include:
+- 🐍 Python
+- 🗑️ SQL
+- 💻 Java
+
+Some of the things I'm currently interested in include
+- 🔭 Building machine learning models
+- 📉 Creating interesting data visualisation charts
 <!--
 **Vanneka/Vanneka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
