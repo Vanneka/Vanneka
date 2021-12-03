@@ -1,5 +1,5 @@
 ## Howdy 💃🏽
-I'm Vanessa, a Software Developer with a bias for data and machine learning algorithms.
+I'm Vanessa, a Software Engineer with a bias for data and machine learning algorithms.
 
 Some technologies I enjoy working with include:
 - 🐍 Python
