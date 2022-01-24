@@ -2,8 +2,8 @@
 I'm Vanessa, a Software Engineer with a bias for data and machine learning algorithms.
 
 Some technologies I enjoy working with include:
-- 🐍 Python
 - 🗑️ Javascript
+- 🐍 Python
 - 💻 Java
 - 🧰 Other technologies include: SQL, Jupyter Notebooks, Numpy, Pandas, Tableau, Scipy, Tensorflow, R, Rattle
 
