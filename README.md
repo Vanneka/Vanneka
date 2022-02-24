@@ -1,11 +1,10 @@
 ## Howdy 💃🏽
-I'm Vanessa, a Software Engineer with a bias for data and machine learning algorithms.
+I'm Vanessa, a Software Engineer with a bias for Javascript and building products on the web.
 
 Some technologies I enjoy working with include:
 - 🗑️ Javascript
-- 🐍 Python
 - 💻 Java
-- 🧰 Other technologies include: SQL, Jupyter Notebooks, Numpy, Pandas, Tableau, Scipy, Tensorflow, R, Rattle
+- 🧰 Other technologies include: React.js, Next.js, TypeScript, Node.js, CSS, SASS 
 
 Some of the things I'm currently interested in include
 - 🌱 Building the web with Javascript
